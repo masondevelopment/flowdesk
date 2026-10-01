@@ -32,9 +32,6 @@ export const metadata: Metadata = {
     title: "Flowdesk — One workspace for your entire workflow",
     description: "Projects, clients and tasks. Finally in one place.",
   },
-  other: {
-    "codex-preview": "development",
-  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
